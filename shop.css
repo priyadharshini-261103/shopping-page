@@ -1,0 +1,53 @@
+ul{
+    padding: 10px;
+    background-color: black;
+    color: antiquewhite;}
+    li{
+        display: inline-block;
+    padding-right: 10px;
+   ;
+    }
+
+li:hover{ 
+    
+    color: azure;
+   
+    
+    cursor: pointer;
+   
+} .one{
+    padding-right: 900px;
+
+}
+input{
+    width: 50%;
+    padding: 10px;
+    
+} div{ 
+    
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 250px;
+    border-color: thistle;
+    border-width: 5px;
+    border-style: solid;
+    }
+div:hover{
+    background-color: black;
+    color: azure;
+    cursor:pointer;
+
+}
+.three{
+    display: block;
+    background-color: black;
+    color: antiquewhite;
+   
+}
+span{
+    padding: 10px;
+    display: block;
+   background-color: black;
+    color: antiquewhite;
+}
